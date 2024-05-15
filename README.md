@@ -68,7 +68,7 @@ cmake ../basetp_progav
 make -j4
 ```
 
-Sinon QtCreator permet de lire les projets CMake
+
 
 
 
